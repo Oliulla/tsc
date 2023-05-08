@@ -25,4 +25,3 @@ const productsArr: ProductArr = [
 
 const totalCost = calculateTotalCost(productsArr);
 console.log(`The total cost of all products is: ${totalCost}`);
-
